@@ -1,0 +1,9 @@
+Thank you for attempting the Collatz Conjecture!
+This is a mathematical expression that will operate until a number is equal  to one.
+Please provide a whole number greater than 0: Yay
+23
+[70, 35.0, 106, 53.0, 160, 80.0, 40.0, 20.0, 10.0, 5.0, 16, 8.0, 4.0, 2.0, 1.0]
+You have run this equation through the odd cycle 4 times!
+You have run this equation through the even cycle 11 times!
+You have run this equation 15 times!
+The highest integer reached during the cycles was: 160
